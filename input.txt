@@ -1,0 +1,6 @@
+chalu
+    mate i = 1 paryant 3:
+	   i= i+2;
+        lakho i;
+    parat;
+puru
